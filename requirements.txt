@@ -1,0 +1,5 @@
+pyfiglet==0.8.post1
+termcolor==2.0.1
+playwright==1.22.0
+progress==1.6
+tqdm==4.64.1
