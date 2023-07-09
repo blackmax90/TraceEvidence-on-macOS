@@ -7,11 +7,11 @@ Discovering spoliation of evidence through identifying traces on deleted files i
   - Spoliation trace analysis result sheet 	(MS Excel)
 
 ## Experiments
- - Dataset (https://drive.google.com/drive/folders/1uHfDYvFLguRIe_juv6ScgNhLD-QnNX_3?usp=sharing)
+ - Dataset
 	- No deletion				(Clean image)
 	- File deletion				(Ordinary User image)
 	- High-level anti forensics		(Specialist image)
- - SampleDataSet for the tool test (https://drive.google.com/drive/folders/1uHfDYvFLguRIe_juv6ScgNhLD-QnNX_3?usp=sharing)
+ - SampleDataSet for the tool test
  - Experiment Dataset & Result			(MS Excel)
 
 # TEFT (Trace Evidence Forensics Tool)
